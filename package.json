@@ -4,6 +4,7 @@
   "description": "backend part of instaclone project",
   "main": "server.js",
   "scripts": {
+    "build" : "npm install",
     "start":"nodemon server.js"
   },
   "author": "Mahendrakumar Raut",
